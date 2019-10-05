@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e0dff210de9bab429c92bb2134cd60a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cuboHeroe: {fileID: 6904987221632141632, guid: 4fac8b980c03370468daf1a7d189f919,
+      type: 3}
+  - camaraHeroe: {fileID: 6969628222492294799, guid: eb13fb7ad31f45b4cb4c1cfa63f416d7,
+      type: 3}
+  - zombie: {instanceID: 0}
+  - aldeano: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
